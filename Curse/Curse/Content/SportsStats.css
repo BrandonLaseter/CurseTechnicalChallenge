@@ -1,0 +1,32 @@
+﻿body {
+}
+
+    table.teams th {
+        border: 2px solid black;
+        padding:5px;
+    }
+
+    table.teams td {
+        border: 2px dashed black;
+        padding: 5px;
+    }
+
+    table.players th {
+        border: 2px solid black;
+        padding:5px;
+    }
+
+    table.players td {
+        border: 2px dashed black;
+        padding: 5px;
+    }
+
+    table.summary th {
+        border: 2px solid black;
+        padding:5px;
+    }
+
+    table.summary td {
+        border: 2px dashed black;
+        padding: 5px;
+    }

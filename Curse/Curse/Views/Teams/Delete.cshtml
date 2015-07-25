@@ -1,0 +1,33 @@
+﻿@model Curse.Models.ViewModels.TeamViewModel
+
+@{
+    ViewBag.Title = "Delete Team";
+}
+
+<h2>@Html.DisplayFor(x => x.Name)</h2>
+
+@if (!String.IsNullOrEmpty(Model.Avatar))
+{
+<div>
+    <img src="@Model.Avatar" />
+</div>
+}
+else
+{
+    <text>No Avatar</text>   
+}
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(x => x.ID)
+    @Html.HiddenFor(x => x.Name)
+
+    <h3>Are you sure you want to delete this team?</h3>
+    <h3 class="error">All players on this team will also be deleted.</h3>
+    
+    <input type="submit" value="Delete" />
+    <text>|</text>
+    @Html.ActionLink("Cancel", "Details", new {id = Model.ID})
+}

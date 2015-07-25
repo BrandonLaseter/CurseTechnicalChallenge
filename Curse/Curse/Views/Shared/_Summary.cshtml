@@ -1,0 +1,87 @@
+﻿@model Curse.Models.ViewModels.SummaryViewModel
+
+<table class="summary" style="float:right">
+    <tr>
+        <th>
+            @Html.ActionLink("Total Teams", "Index", "Teams")
+        </th>
+        <td>@Model.TotalTeams</td>
+    </tr>
+    <tr>
+        <th>@Html.ActionLink("Total Players", "Index", "Players")</th>
+        <td>@Model.TotalPlayers</td>
+    </tr>
+</table>
+
+@if(Model.HasAnyPlayers)
+{
+<table class="summary">
+    <tr>
+        <th></th>
+        <th>Name</th>
+        <th>Team</th>
+        <th>Value</th>
+    </tr>
+
+    @*I could probably created helper method to enforce the DRY strategy here*@
+    @if (Model.PlayerWithMostRBI != null)
+    {
+    <tr>
+        <th>Player with Most RBIs</th>
+        <td>
+            @Html.ActionLink(Model.PlayerWithMostRBI.Name, "Details", "Players", new { id = Model.PlayerWithMostRBI.ID}, null)
+        </td>
+        <td>
+            @if(@Model.PlayerWithMostRBI.TeamName !=null)
+            {
+                @Html.ActionLink(Model.PlayerWithMostRBI.TeamName, "Details", "teams", new { id = Model.PlayerWithMostRBI.TeamId}, null)
+            }
+        </td>
+        <td>
+            @Html.DisplayFor(x =>x.PlayerWithMostRBI.RBI)
+
+        </td>
+    </tr>
+    }
+
+     @if (Model.PlayerWithMostHomeRuns != null)
+    {
+    <tr>
+        <th>Player with Most Home Runs</th>
+        <td>
+            @Html.ActionLink(Model.PlayerWithMostHomeRuns.Name, "Details", "Players", new { id = Model.PlayerWithMostHomeRuns.ID}, null)
+        </td>
+        <td>
+            @if (Model.PlayerWithMostHomeRuns.TeamName != null)
+            {
+                @Html.ActionLink(Model.PlayerWithMostHomeRuns.TeamName, "Details", "teams", new { id = Model.PlayerWithMostHomeRuns.TeamId}, null)
+            }
+        </td>
+        <td>
+            @Html.DisplayFor(x =>x.PlayerWithMostHomeRuns.HomeRuns)
+        </td>
+    </tr>
+    }
+
+     @if (Model.PlayerWithHighestAverage != null)
+    {
+    <tr>
+        <th>Player with Best Average</th>
+        <td>
+            @Html.ActionLink(Model.PlayerWithHighestAverage.Name, "Details", "Players", new { id = Model.PlayerWithHighestAverage.ID}, null)
+        </td>
+        <td>
+            @if(Model.PlayerWithHighestAverage.TeamName != null)
+            {
+                @Html.ActionLink(Model.PlayerWithHighestAverage.TeamName, "Details", "teams", new { id = Model.PlayerWithHighestAverage.TeamId}, null)
+            }
+        </td>
+        <td>
+            @Html.DisplayFor(x =>x.PlayerWithHighestAverage.Average)
+
+        </td>
+    </tr>
+    }
+</table>
+}
+

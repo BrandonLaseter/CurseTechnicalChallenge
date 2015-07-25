@@ -1,0 +1,45 @@
+﻿@model Curse.Models.ViewModels.TeamViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div>
+@Html.ActionLink("Edit","Edit", new {Id = Model.ID})
+|
+@Html.ActionLink("Delete", "Delete", new { id = Model.ID}, null) 
+</div>
+
+<h2>@Html.DisplayFor(x => x.Name)</h2>
+
+@if (!String.IsNullOrEmpty(Model.Avatar))
+{
+<div>
+    <img src="@Model.Avatar" />
+</div>
+}
+else
+{
+    <text>No Avatar</text>   
+}
+
+@if (Model.PlayerList.Count > 0) {
+<h3>Players (@Html.ActionLink("Add", "Create", "Players", new { team = Model.ID}, null)) </h3>
+<table class="players">
+    <tr>
+        <th>Name</th>
+        <th>Details</th>
+    </tr>
+@foreach (var player in Model.PlayerList)
+{
+    <tr>
+        <td>@player.Name</td>
+        <td>@Html.ActionLink("Details", "Details", "Players",  new { id = player.ID}, null)</td>
+    </tr>
+}
+</table>
+}
+else
+{
+    <h3>No players</h3>   
+}

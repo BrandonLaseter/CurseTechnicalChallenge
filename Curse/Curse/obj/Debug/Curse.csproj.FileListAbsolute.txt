@@ -1,0 +1,178 @@
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Curse.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Curse.pdb
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Antlr3.Runtime.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\DotNetOpenAuth.AspNet.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\DotNetOpenAuth.Core.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\DotNetOpenAuth.OAuth.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\DotNetOpenAuth.OpenId.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\EntityFramework.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Microsoft.Data.Edm.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Microsoft.Data.OData.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Microsoft.Web.Infrastructure.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Newtonsoft.Json.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Net.Http.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Net.Http.Formatting.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Net.Http.WebRequest.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Spatial.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Helpers.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Http.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Http.OData.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Http.WebHost.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Mvc.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Optimization.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Razor.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.WebPages.Deployment.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.WebPages.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.WebPages.Razor.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\WebGrease.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\WebMatrix.Data.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\WebMatrix.WebData.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\EntityFramework.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Newtonsoft.Json.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Net.Http.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Net.Http.Formatting.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Net.Http.WebRequest.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Helpers.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Http.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Http.WebHost.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Mvc.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Razor.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.WebPages.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.WebPages.Deployment.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.WebPages.Razor.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\WebMatrix.Data.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\WebMatrix.WebData.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\DotNetOpenAuth.AspNet.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\DotNetOpenAuth.Core.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\DotNetOpenAuth.OAuth.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\DotNetOpenAuth.OpenId.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Web.Http.OData.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Microsoft.Data.Edm.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\Microsoft.Data.OData.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\System.Spatial.xml
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\de\System.Spatial.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\es\System.Spatial.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\fr\System.Spatial.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\it\System.Spatial.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\ja\System.Spatial.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\ko\System.Spatial.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\ru\System.Spatial.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\obj\Debug\Curse.csprojResolveAssemblyReference.cache
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\obj\Debug\Curse.dll
+c:\users\brandon\documents\visual studio 2012\Projects\Curse\Curse\obj\Debug\Curse.pdb
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Curse.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Curse.pdb
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Antlr3.Runtime.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\DotNetOpenAuth.Core.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\EntityFramework.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Microsoft.Data.Edm.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Microsoft.Data.OData.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Newtonsoft.Json.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Net.Http.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Net.Http.Formatting.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Net.Http.WebRequest.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Spatial.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Helpers.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Http.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Http.OData.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Http.WebHost.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Mvc.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Optimization.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Razor.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.WebPages.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.WebPages.Razor.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\WebGrease.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\WebMatrix.Data.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\WebMatrix.WebData.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\EntityFramework.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Newtonsoft.Json.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Net.Http.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Net.Http.Formatting.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Net.Http.WebRequest.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Helpers.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Http.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Http.WebHost.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Mvc.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Razor.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.WebPages.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.WebPages.Razor.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\WebMatrix.Data.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\WebMatrix.WebData.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\DotNetOpenAuth.Core.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Web.Http.OData.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Microsoft.Data.Edm.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\Microsoft.Data.OData.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\System.Spatial.xml
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\de\System.Spatial.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\es\System.Spatial.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\fr\System.Spatial.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\it\System.Spatial.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\ja\System.Spatial.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\ko\System.Spatial.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\ru\System.Spatial.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\obj\Debug\Curse.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\obj\Debug\Curse.dll
+C:\Users\Brandon\Desktop\BrandonLaseterCurseTechnicalChallence\Curse\Curse\obj\Debug\Curse.pdb

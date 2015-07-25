@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Sports">
+  <DataContextMoniker Name="/SportsDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2112e45a-8b78-4517-9ba6-57c9b943c755" absoluteBounds="3.5, 0.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/SportsDataContext/Player" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e4a2c851-4b97-4402-8c57-5e3595df100a" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="45dc5390-cfa2-476a-b8da-462f7124d442" absoluteBounds="0.75, 1.375, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/SportsDataContext/Team" />
+      <nestedChildShapes>
+        <elementListCompartment Id="930ede9d-7636-442c-8562-1e1776eaf394" absoluteBounds="0.765, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.06814697265625); (3.5 : 2.06814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SportsDataContext/Team/Team_Player" />
+      <nodes>
+        <classShapeMoniker Id="45dc5390-cfa2-476a-b8da-462f7124d442" />
+        <classShapeMoniker Id="2112e45a-8b78-4517-9ba6-57c9b943c755" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

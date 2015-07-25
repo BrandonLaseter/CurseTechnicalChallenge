@@ -1,0 +1,30 @@
+﻿@model List<Curse.Models.ViewModels.TeamListViewModel>
+
+@{
+    ViewBag.Title = "Team Listing";
+}
+
+<h2>Team Listing</h2>
+
+@Html.ActionLink("Create", "Create")
+
+@*Create a verysimple grid to display teams*@
+<table class="teams">
+    <tr>
+        <th>Name</th>
+        <th>Players</th>
+        <th>View</th>
+        <th>Edit</th>
+        <th>Delete</th>
+    </tr>
+@foreach (var team in Model)
+{
+    <tr>
+        <td>@team.Name</td>
+        <td>@team.PlayerCount (@Html.ActionLink("Add Player", "Create", "Players", new { team = team.ID}, null))</td>
+        <td>@Html.ActionLink("Details", "Details", new { id = team.ID })</td>
+        <td>@Html.ActionLink("Edit", "Edit", new { id = team.ID })</td>
+        <td>@Html.ActionLink("Delete", "Delete", new { id = team.ID })</td>
+    </tr>
+}
+</table>

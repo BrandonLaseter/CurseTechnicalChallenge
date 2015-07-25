@@ -1,0 +1,65 @@
+﻿@model Curse.Models.ViewModels.PlayerViewModel
+
+@{
+    ViewBag.Title = "Edit Player";
+}
+
+<h2>Edit Player</h2>
+
+@if (!String.IsNullOrEmpty(Model.Avatar))
+{
+    <div>
+        <img src="@Model.Avatar" />
+    </div>
+}
+else
+{
+    <text>No Avatar</text>   
+}
+
+@using (Html.BeginForm("Edit", "Players", FormMethod.Post, new { enctype="multipart/form-data" }))
+{
+    @Html.ValidationSummary(false)
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(x =>x.ID)
+    <div>
+        @Html.LabelFor(x => x.Name)
+        @Html.EditorFor(x => x.Name)
+        @Html.ValidationMessageFor(x => x.Name)
+    </div>
+    
+    <div>
+        @Html.LabelFor(x => x.TeamId)
+        @Html.DropDownListFor(x => x.TeamId, Model.TeamSelectList, "-- Select Team--")
+        @Html.ValidationMessageFor(x => x.TeamId)
+    </div>
+    
+       <div>
+        @Html.LabelFor(x => x.RBI)
+        @Html.EditorFor(x => x.RBI)
+        @Html.ValidationMessageFor(x => x.RBI)
+    </div>
+    
+       <div>
+        @Html.LabelFor(x => x.HomeRuns)
+        @Html.EditorFor(x => x.HomeRuns)
+        @Html.ValidationMessageFor(x => x.HomeRuns)
+    </div>
+    
+       <div>
+        @Html.LabelFor(x => x.Average)
+        @Html.EditorFor(x => x.Average)
+        @Html.ValidationMessageFor(x => x.Average)
+    </div>
+    
+    <div>
+        <input type="file" name="avatar" />        
+    </div>
+    
+    <div>
+        <input type="submit" value="Save" /> 
+        |
+        @Html.ActionLink("Cancel", "Details", new { ID = Model.ID })
+    </div>
+}
+
